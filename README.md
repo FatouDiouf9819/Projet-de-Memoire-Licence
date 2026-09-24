@@ -41,4 +41,4 @@ jupyter notebook memoire_inegalites_senegal.ipynb
 
 ##  Auteur
 
-* **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
+* **Fatou DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
